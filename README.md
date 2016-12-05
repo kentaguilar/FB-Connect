@@ -1,6 +1,7 @@
-# Login via Facebook
+# Login with Facebook
 
 **Easy to use facebook site authentication using PHP and Graph SDK. Saving of FB data to DB is also included.**
+You can use facebook login in your websites to allow users to login using their facebook account. You don’t need an extra registration and user management for your sites. You can also manage users in your facebook application page. 
 
 ## Setting up the back-end
 
