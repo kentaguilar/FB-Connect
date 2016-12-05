@@ -1,6 +1,6 @@
 # Login via Facebook
 
-**Easy to use facebook site authentication using PHP and Graph SDK**
+**Easy to use facebook site authentication using PHP and Graph SDK. Saving of FB data to DB is also included.**
 
 ## Setting up the back-end
 
